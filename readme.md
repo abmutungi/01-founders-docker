@@ -1,4 +1,4 @@
-### Groupie Tracker Project
+### Dockerize Project
 
 This repository contains files from a project completed at 01 Founders Coding School.
 
