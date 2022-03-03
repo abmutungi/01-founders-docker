@@ -19,3 +19,7 @@ This project introduced me to :
   - Containerizing an application.
   - Compatibility/Dependency.
   - Creating images.
+
+## Authors:
+
+[Arnold Mutungi](https://github.com/abmutungi) & [Yonas Million](https://git.learn.01founders.co/nsym_coding)
